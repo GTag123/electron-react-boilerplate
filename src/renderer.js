@@ -4,11 +4,13 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './components/styles/style.css';
+import Login from  './components/login';
 
 class App extends React.Component {
   render () {
     return (
-      <h1>Minimalistic Electron React Boilerplate Code :) Teeest</h1>
+      <Login />
     );
   }
 }
