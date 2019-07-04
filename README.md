@@ -9,7 +9,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/alexakasanjeev/electron-react-quick-start.git your-project-name
+git clone https://github.com/GTag123/electron-react-boilerplate.git your-project-name
 # Go into the repository
 cd your-project-name
 # Install dependencies
